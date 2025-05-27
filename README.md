@@ -2,6 +2,8 @@
 
 A modern, real-time cryptocurrency dashboard built with Next.js, TypeScript, and Tailwind CSS. Track your portfolio, monitor market trends, and stay updated with the latest crypto movements.
 
+🌐 **Live Demo:** [https://future-finance-seven.vercel.app/](https://future-finance-seven.vercel.app/)
+
 ![Future Finance Dashboard](public/dashboard.png)
 
 ## 🌟 Features
